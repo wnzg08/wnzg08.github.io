@@ -15,6 +15,6 @@
         <p>
             me working on this web or something
         </p>
-        <img src="photos/screen.png" width="400" height=""400>
+        <img src="photos/screen.png" width="400" height="400">
     </body>
 </html>
