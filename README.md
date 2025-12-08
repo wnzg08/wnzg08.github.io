@@ -3,7 +3,6 @@
     <head>
         <meta charset="UTF-8">
         <link rel="stylesheet" href="styles.css">
-        <title>My portfolio</title>
     </head>
     <body>
         <h1 style="font-size:80px;">My Website</h1>
