@@ -15,7 +15,9 @@
             me working on this web or something
         </p>
         <img src="photos/screen.png" width="400" height="400">
+        <p>
         <a style="font-family:'Courier New', Courier, monospace"  href="page.html">Current photo and video trends</a>
         <a style="font-family:'Courier New', Courier, monospace" href="assignment1.html">Assignment 1</a>
+        <\p>
     </body>
 </html>
