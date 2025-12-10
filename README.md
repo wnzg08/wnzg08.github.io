@@ -11,10 +11,11 @@
         <h1>About me</h1>
         <p>I am human</p>
         <h1>Work</h1>
-        <a style="font-family:'Courier New', Courier, monospace"  href="page.html">Current photo and video trends</a>
         <p>
             me working on this web or something
         </p>
         <img src="photos/screen.png" width="400" height="400">
+        <a style="font-family:'Courier New', Courier, monospace"  href="page.html">Current photo and video trends</a>
+        <a style="font-family:'Courier New', Courier, monospace" href="assignment1.html">Assignment 1</a>
     </body>
 </html>
