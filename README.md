@@ -18,6 +18,6 @@
         <p>
         <a style="font-family:'Courier New', Courier, monospace"  href="page.html">Current photo and video trends</a>
         <a style="font-family:'Courier New', Courier, monospace" href="assignment1.html">Assignment 1</a>
-        <\p>
+        </p>
     </body>
 </html>
